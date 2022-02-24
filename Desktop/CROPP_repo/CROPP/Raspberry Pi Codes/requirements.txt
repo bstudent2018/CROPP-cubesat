@@ -1,0 +1,5 @@
+numpy
+imutils==0.5.4
+Pillow
+pyserial
+RPi
